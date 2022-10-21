@@ -1,0 +1,15 @@
+C:\Users\Legion\Desktop\programowanie\DOTNET\Lekcja2.7\OperatoryLogiczne\OperatoryLogiczne\bin\Debug\net6.0\OperatoryLogiczne.exe
+C:\Users\Legion\Desktop\programowanie\DOTNET\Lekcja2.7\OperatoryLogiczne\OperatoryLogiczne\bin\Debug\net6.0\OperatoryLogiczne.deps.json
+C:\Users\Legion\Desktop\programowanie\DOTNET\Lekcja2.7\OperatoryLogiczne\OperatoryLogiczne\bin\Debug\net6.0\OperatoryLogiczne.runtimeconfig.json
+C:\Users\Legion\Desktop\programowanie\DOTNET\Lekcja2.7\OperatoryLogiczne\OperatoryLogiczne\bin\Debug\net6.0\OperatoryLogiczne.dll
+C:\Users\Legion\Desktop\programowanie\DOTNET\Lekcja2.7\OperatoryLogiczne\OperatoryLogiczne\bin\Debug\net6.0\OperatoryLogiczne.pdb
+C:\Users\Legion\Desktop\programowanie\DOTNET\Lekcja2.7\OperatoryLogiczne\OperatoryLogiczne\obj\Debug\net6.0\OperatoryLogiczne.csproj.AssemblyReference.cache
+C:\Users\Legion\Desktop\programowanie\DOTNET\Lekcja2.7\OperatoryLogiczne\OperatoryLogiczne\obj\Debug\net6.0\OperatoryLogiczne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\Desktop\programowanie\DOTNET\Lekcja2.7\OperatoryLogiczne\OperatoryLogiczne\obj\Debug\net6.0\OperatoryLogiczne.AssemblyInfoInputs.cache
+C:\Users\Legion\Desktop\programowanie\DOTNET\Lekcja2.7\OperatoryLogiczne\OperatoryLogiczne\obj\Debug\net6.0\OperatoryLogiczne.AssemblyInfo.cs
+C:\Users\Legion\Desktop\programowanie\DOTNET\Lekcja2.7\OperatoryLogiczne\OperatoryLogiczne\obj\Debug\net6.0\OperatoryLogiczne.csproj.CoreCompileInputs.cache
+C:\Users\Legion\Desktop\programowanie\DOTNET\Lekcja2.7\OperatoryLogiczne\OperatoryLogiczne\obj\Debug\net6.0\OperatoryLogiczne.dll
+C:\Users\Legion\Desktop\programowanie\DOTNET\Lekcja2.7\OperatoryLogiczne\OperatoryLogiczne\obj\Debug\net6.0\refint\OperatoryLogiczne.dll
+C:\Users\Legion\Desktop\programowanie\DOTNET\Lekcja2.7\OperatoryLogiczne\OperatoryLogiczne\obj\Debug\net6.0\OperatoryLogiczne.pdb
+C:\Users\Legion\Desktop\programowanie\DOTNET\Lekcja2.7\OperatoryLogiczne\OperatoryLogiczne\obj\Debug\net6.0\OperatoryLogiczne.genruntimeconfig.cache
+C:\Users\Legion\Desktop\programowanie\DOTNET\Lekcja2.7\OperatoryLogiczne\OperatoryLogiczne\obj\Debug\net6.0\ref\OperatoryLogiczne.dll
